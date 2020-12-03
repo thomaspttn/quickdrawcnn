@@ -1,7 +1,7 @@
 # ECSE 484 FINAL PROJECT - README.md
 ##### Thomas Patton (tjp94)
 
-### data 
+### Data 
 Data was obtained from https://github.com/googlecreativelab/quickdraw-dataset as NumPy bitmaps
 
 ### ``cnn_main.py``
